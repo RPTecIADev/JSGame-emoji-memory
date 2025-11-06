@@ -10,5 +10,5 @@ Ao concluir o jogo, aparecerá uma mensagem indicando sua vitória.
 Projeto realizado como desafio pela DIO. Mais a frente pretendo fazer melhorias e novas estilizações no projeto.
 
 Aproveitem e se divirtam!!! :D
-Acesse a página do game ===> (https://rptecdev.github.io/JSGame-emoji-memory/) <===
+Acesse a página do game ===> (https://RPTecIADev.github.io/JSGame-emoji-memory/) <===
 
